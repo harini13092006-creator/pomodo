@@ -266,7 +266,7 @@ The following real application screenshots demonstrate Pomodo's user interface a
 
 | 4. Automatic Transition | 5. Settings Screen |
 | :---: | :---: |
-| <img src="screenshots\WhatsApp Image 2026-11-19 at 1.39.42 PM (1).jpeg" width="240" alt="Automatic Transition" /> | <img src="screenshots/WhatsApp Image 2026-11-19 at 1.39.42 PM.jpeg" /> width="240" |
+| <img src="screenshots\WhatsApp Image 2026-11-19 at 1.39.42 PM (1).jpeg" width="240" alt="Automatic Transition" /> | <img src="screenshots/WhatsApp Image 2026-11-19 at 1.39.42 PM.jpeg"  width="240" />  |
 | *Visual status transition banner* | *Custom durations & audio/haptic toggles* |
 
 ---
