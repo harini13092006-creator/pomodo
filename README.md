@@ -261,12 +261,12 @@ The following real application screenshots demonstrate Pomodo's user interface a
 
 | 1. Main Focus Timer | 2. Break Mode | 3. Completed Sessions |
 | :---: | :---: | :---: |
-| <img src="screenshots\WhatsApp Image 2026-11-19 at 1.39.39 PM.jpeg" width="240" alt="Focus Timer Screen" /> | <img src="screenshots\WhatsApp Image 2026-11-19 at 1.39.40 PM.jpeg" alt="Break Mode Screen" /> | <img src="screenshots\WhatsApp Image 2026-11-19 at 1.39.41 PM.jpeg" width="240" alt="Session Counter" /> |
+| <img src="screenshots\WhatsApp Image 2026-11-19 at 1.39.39 PM.jpeg" width="240" alt="Focus Timer Screen" /> | <img src="screenshots\WhatsApp Image 2026-11-19 at 1.39.40 PM.jpeg" width="240" alt="Break Mode Screen" /> | <img src="screenshots\WhatsApp Image 2026-11-19 at 1.39.41 PM.jpeg" width="240" alt="Session Counter" /> |
 | *25:00 clean countdown* | *05:00 recharge interval* | *Daily progress tracker & history* |
 
 | 4. Automatic Transition | 5. Settings Screen |
 | :---: | :---: |
-| <img src="screenshots\WhatsApp Image 2026-11-19 at 1.39.42 PM (1).jpeg" width="240" alt="Automatic Transition" /> | <img src="screenshots/WhatsApp Image 2026-11-19 at 1.39.42 PM.jpeg" /> |
+| <img src="screenshots\WhatsApp Image 2026-11-19 at 1.39.42 PM (1).jpeg" width="240" alt="Automatic Transition" /> | <img src="screenshots/WhatsApp Image 2026-11-19 at 1.39.42 PM.jpeg" /> width="240" |
 | *Visual status transition banner* | *Custom durations & audio/haptic toggles* |
 
 ---
